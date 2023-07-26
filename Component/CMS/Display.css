@@ -1,0 +1,93 @@
+.bl_card_1 figure a {
+    overflow: hidden;
+    border-radius: 20px;
+}
+
+.bl_card_1_top img {
+    width: 70%;
+    border-radius: 15px;
+}
+
+.bl_card_1 img:hover {
+    transform: scale(1.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.blog_sec_header {
+    text-align: center;
+}
+
+.blog_sec_header h2 {
+    font-family: 'Proxima Nova';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 49px;
+    /* identical to box height */
+
+
+    color: #242565;
+}
+
+.blog_sec_header p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    /* identical to box height, or 27px */
+
+
+    color: #6A6A6A;
+}
+
+.blog_sec_cards {
+    padding-top: 47px;
+    margin-bottom: 68px;
+}
+
+.blog_sec_cards a {
+    color: #242565;
+    margin: 0 -9px;
+    padding: 5px 22px;
+    border-radius: 5px;
+}
+
+.blog_sec_cards a:hover {
+    color: #3D37F1;
+    transition: all 0.3s ease-in-out;
+}
+.bl_card_1 h4 {
+    max-width: 290px;
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    /* or 30px */
+
+
+    color: #242565;
+}
+
+.bl_card_1 p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    /* or 24px */
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.bl_card_1 span {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    /* identical to box height, or 21px */
+    color: #A5A5A5;
+    margin: 0;
+}
+.blog_sec_cards a:hover{
+    background-color: rgb(123 227 216);
+}

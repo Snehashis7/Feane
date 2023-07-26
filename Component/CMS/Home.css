@@ -1,0 +1,405 @@
+.main-header {
+    background-image: url(hero-bg.jpg);
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+}
+.banner-sec {
+    padding-top: 80px;
+    text-align: center;
+}
+.b-text{
+    padding-top: 100px;
+}
+
+.b-text h3 {
+    margin: 25px;
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 700;
+    color: white;
+    margin-left: -663px;
+}
+.b-text p{
+    font-size: 15px;
+    font-family: 'Dancing Script', cursive;
+    color: white;
+    font-weight: 500;
+    max-width: 680px;
+    margin-left: -110px;
+}
+
+
+.banner-link .cmn-btnn {
+    border: 1px solid rgb(240, 29, 29);
+    border-radius: 30px;
+    background-color: rgb(203 196 54);
+    padding: 12px 43px;
+    margin-left: -715px;
+}
+
+.banner-link .cmn-btnn:hover {
+    background-color: rgb(216, 111, 13);
+    border: 1px solid rgb(185, 11, 11);
+}
+
+.banner-link a {
+    padding: 0;
+    color: rgb(243, 240, 240);
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+
+.banner-link {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.banner-link a {
+    color: white;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+
+.banner-image{
+    width: 100%;
+    height: 60vh;
+    background: linear-gradient(rgba(165, 47, 47, 0.2), rgba(0,0,0,0.2)), url(33.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.banner-image2{
+    width: 100%;
+    height: 50vh;
+   
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.banner-image3{
+    width: 100%;
+    height: 50vh;
+    background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(34.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.banner-image4{
+    width: 100%;
+    height: 21vh;
+    
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.banner-portion{
+    padding-bottom: 80px;
+    background-color: #bfa2a28a;
+    /* margin: 30px; */
+}
+.our-menu {
+    padding-top: 80px;
+}
+
+.menu-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.menu-header h2 {
+    font-size: 30px;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.nav-bar ul {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bar ul li {
+    list-style-type: none;
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0 10px;
+}
+
+.nav-bar ul li:hover {
+    background-color: #406bdd;
+    color: #fcf6f6;
+    border-radius: 5px;
+    padding: 0px 7px;
+}
+
+
+.card{
+    margin: 40px;
+}
+.card-body{
+    background-color: moccasin;
+}
+.mix-image{
+    width: 50%;
+    height: 200px;
+    padding: 0px;
+    
+}
+.mix-portion{
+    width: 100%;
+    
+}
+
+.testimonials{
+    text-align: center;
+    background-color: #c73f2a;
+    color: white;
+}
+.carousel-menu{
+    padding-bottom: 86px;}
+/* .image-style{
+    border-radius: 0%;
+    width:100%;
+    vertical-align: middle;
+} */
+.firstcard_image{
+    height: 250px;
+    width: 100%;
+    border-radius: 10px;
+}
+.first_content h5{
+        margin-top: 20px;
+    padding-bottom: 30px;
+    padding: 0 30px;
+}
+.image-45{
+    width: 100%;
+    height: 21vh;
+   
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.image-47{
+    width: 100%;
+    height: 100vh;
+    
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.two-card{
+    width: 100%;
+    height: 100vh;
+    background-color: white;
+}
+.twocard-portion{
+    background-color: white;
+}
+.third{
+    background-color: #222831;
+    height: 625px;
+}
+.about_section .img-box {
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+}
+
+.about_section {
+    background: #222831;
+    color: #ffffff;
+}
+.layout_padding {
+    padding: 90px 0;
+}
+/* @media (min-width: 1200px) */
+.third {
+    max-width: 1170px;
+}
+.about_section .row {
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+}
+.col-md-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+.details-box::before{
+    box-sizing: border-box;
+}
+.details-box::after{
+    box-sizing: border-box;
+}
+.heading_container {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+}
+.heading_container h2 {
+    position: relative;
+    margin-bottom: 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+    
+  
+}
+h1, h2 {
+    font-family: 'Dancing Script', cursive;
+   
+}
+.about_section .details-box p {
+    margin-top: 15px;
+    display: inline-block;
+    
+}
+p {
+    margin-bottom: 1rem;
+}
+.about_section .details-box a {
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #ffbe33;
+    color: #ffffff;
+    border-radius: 45px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.about_section .details-box a:hover{
+    background-color: #cf9d30;
+}
+.abcd{
+    display: inline-block;
+    padding: 10px 45px;
+    background-color: #ffbe33;
+    color: #ffffff;
+    border-radius: 45px;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+    border: none;
+    margin-top: 15px;
+    text-decoration: none !important;
+    margin-left: 495px;
+}
+.abcd:hover{
+    background-color: #cf9d30;
+}
+
+
+
+
+.main-sec-wpr {
+    padding-top: 80px;
+}
+
+.left-texr-wpr {
+    padding-top: 50px;
+}
+
+.left-texr-wpr h2 {
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    margin-bottom: 20px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.left-texr-wpr input {
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-right: 355px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.left-texr-wpr select {
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-right: 385px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.left-texr-wpr input[type='date'] {
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding-right: 420px;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.left-texr-wpr input[type='text'],
+.left-texr-wpr input[type='email'],
+.left-texr-wpr input[type='date'],
+.left-texr-wpr select[type='text'] {
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.input-t {
+    margin-bottom: 20px;
+}
+
+.last-link .cmn-btn {
+    padding: 17px 72px;
+    border-radius: 30px;
+    background: #facc37;
+}
+
+.last-link .cmn-btn:hover {
+    background: #d8a80b;
+}
+
+.last-link a {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    color: white;
+}
